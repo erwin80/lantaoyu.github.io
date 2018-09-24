@@ -66,6 +66,8 @@
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fa fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
+      {% if author.mathoverflow %}
+        <li><a href="https://www.mathoverflow.com/users/{{ author.mathoverflow }}"><i class="fa fa-fw fa-math-overflow" aria-hidden="true"></i> MathOverflow</a></li>
       {% endif %}
       {% if author.lastfm %}
         <li><a href="https://lastfm.com/user/{{ author.lastfm }}"><i class="fa fa-fw fa-lastfm-square" aria-hidden="true"></i> Last.fm</a></li>
