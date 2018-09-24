@@ -4,7 +4,7 @@ collection: talks
 type: "Contributed talk"
 permalink: /talks/2016-09-21-gan-intro
 venue: "Kazakh National Pedagogical University for female students"
-date: 2017-02-17
+date: 2016-04-10
 location: "Almaty, Kazakhstan"
 ---
 
