@@ -9,4 +9,4 @@ location: "Bonn, Germany"
 ---
 
 A contributed talk at the workshop "Young Researchers in String Mathematics". <br>
-[[Slide]](http://lantaoyu.github.io/files/2017-02-07-aaai-seqgan.pdf)
+[[Slide]](http://polishman.github.io/files/2017-02-07-aaai-seqgan.pdf)
