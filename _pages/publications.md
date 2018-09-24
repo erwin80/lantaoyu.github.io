@@ -15,7 +15,7 @@ author_profile: true
 ## Conference proceedings
 
 <b>[On the number of reducible polynomials in a general linear system](http://polishman.github.io/publications/GanGradient)</b><br>
-<b>Aknazar Kazhymurat\*</b> <i>Proceedings of the 54th international students scientific conference, April, 16-20, 2016. ISBN 978-5-4437-0487-6
+<b>Aknazar Kazhymurat</b> <i>Proceedings of the 54th international students scientific conference, April, 16-20, 2016. ISBN 978-5-4437-0487-6
 </i>. 
 
 <b>[Lower estimates for the energy functional on a family of Hamiltonian minimal Lagrangian tori in CP^2](http://kazhymurat.ml/publications/DADM)</b><br>
