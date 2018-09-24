@@ -7,13 +7,12 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Lantao Yu"
+title                    : "Aknazar Kazhymurat"
 title_separator          : "-"
-name                     : &name "Lantao Yu"
-description              : &description "PhD student, Computer Science Department, Stanford University"
-url                      : https://lantaoyu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Aknazar Kazhymurat"
+description              : &description "High school student, NIS PM Almaty"
+url                      : https://polishman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "LantaoYu/lantaoyu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -77,13 +76,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lantao Yu"
+  name             : "Aknazar Kazhymurat"
   avatar           : "lantaoyu.jpg"
-  bio              : "PhD student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  bio              : "High school student, NIS PM Almaty"
+  location         : "Almaty, Kazakhstan"
   employer         : 
-  googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
-  email            : "lantaoyu@hotmail.com"
+  googlescholar    : 
+  email            : "akkazhymurat@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,7 +90,7 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "LantaoYu"
+  github           : 
   google_plus      :
   keybase          :
   instagram        : 
