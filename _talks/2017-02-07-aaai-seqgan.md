@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2017-02-07-aaai-seqgan
 venue: "Max Planck Institute for Mathematics"
-date: 2017-11
+date: 2017-11-29
 location: "Bonn, Germany"
 ---
 
