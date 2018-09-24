@@ -1,6 +1,6 @@
 ---
 title: "What influences the productivity of methods for teaching 11th grade students advanced mathematical concepts? Case study of NIS PM Almaty"
-collection: publications
+collection: 
 permalink: /publications/IRGAN
 venue: 
 date: 2017-12-08
