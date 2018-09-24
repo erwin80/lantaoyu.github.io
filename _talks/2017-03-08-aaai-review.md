@@ -9,4 +9,4 @@ location: "Almaty, Kazakhstan"
 ---
 
 An introductory talk explaining the basics of algebraic geometry to high school students.<br>
-[[Slide]](http://polishman.github.io/files/2017-03-08-aaai-review.pdf)
+[[Slide]](http://polishman.github.io/files/2017_03_08_aaai_review.pdf)
