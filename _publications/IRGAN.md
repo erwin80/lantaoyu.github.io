@@ -5,7 +5,7 @@ permalink: /publications/IRGAN
 venue: "unpublished"
 date: 2017-12-08
 ---  
-[[PDF]](https://github.com/geek-ai/Math_teaching.pdf)
+[[PDF]](https://kazhymurat.ml/files/Math_teaching.pdf)
 
 
 ## Abstract
