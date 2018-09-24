@@ -1,12 +1,12 @@
 ---
-title: "AAAI 2017 Review"
+title: "Why algebraic geometry?"
 collection: talks
-type: "Talk"
+type: "Invited talk"
 permalink: /talks/2017-03-08-aaai-review
-venue: "Apex Lab, Shanghai Jiao Tong University"
-date: 2017-03-08
-location: "Shanghai, China"
+venue: "NIS PM Almaty"
+date: 2017-06
+location: "Almaty, Kazakhstan"
 ---
 
-Review of The Thirt-First AAAI Conference on Artificial Intelligence.<br>
+An introductory talk explaining the basics of algebraic geometry to high school students.<br>
 [[Slide]](http://lantaoyu.github.io/files/2017-03-08-aaai-review.pdf)
