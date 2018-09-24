@@ -12,7 +12,7 @@ author_profile: true
 <b>[Topological uniqueness results for Lefschetz fibrations over the disc](http://kazhymurat.ml/publications/CoT)</b> <br>
 <b>Aknazar Kazhymurat</b>. arXiv 2018. 
 
-<b>[What influences the productivity of methods for teaching 11th grade students advanced mathematical concepts? Case study of NIS PM Almaty](http://kazhymurat.ml/publications/CoT)</b> <br>
+<b>[What influences the productivity of methods for teaching 11th grade students advanced mathematical concepts? Case study of NIS PM Almaty](http://kazhymurat.ml/publications/IGRAN)</b> <br>
 <b>Aknazar Kazhymurat</b>. Unpublished. 
 
 ## Conference proceedings
