@@ -4,7 +4,7 @@ collection: talks
 type: "Invited talk"
 permalink: /talks/2017-03-08-aaai-review
 venue: "NIS PM Almaty"
-date: 2017-06
+date: 2017-06-15
 location: "Almaty, Kazakhstan"
 ---
 
