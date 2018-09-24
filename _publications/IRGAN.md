@@ -1,22 +1,17 @@
 ---
-title: "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models"
+title: "What influences the productivity of methods for teaching 11th grade students advanced mathematical concepts? Case study of NIS PM Almaty"
 collection: publications
 permalink: /publications/IRGAN
-venue: "The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR-17)"
-date: 2017-04-11
-citation: 'Jun Wang, <b>Lantao Yu</b>, Weinan Zhang, Yu Gong, Yinghui Xu, Benyou Wang, Peng Zhang and Dell Zhang. <i>The 40th International ACM SIGIR Conference on Research and Development in Information Retrieval.</i> <b>SIGIR 2017.</b> <b> <span style="color:red">Best Paper Award Honorable Mention</span> </b>'
+venue: "unpublished"
+date: 2017-12-08
 ---  
-[[PDF]](https://arxiv.org/abs/1705.10513)  [[Code]](https://github.com/geek-ai/irgan)
+[[PDf]](https://github.com/geek-ai/Math_teaching.pdf)
 
 
 ## Abstract
-This paper provides a unified account of two schools of thinking in information retrieval modelling: the generative retrieval focusing on predicting relevant documents given a query, while discriminative retrieval focusing on predicting relevancy given a query-document pair. We propose a game theoretical minimax game to iteratively optimise both models.
-On one hand, the discriminative model, aiming to mine signals from labelled and unlabelled data, provides guidance to train the generative model towards fitting the underlying relevance distribution over documents given the query.
-On the other hand, the generative model, acting as an attacker to the current discriminative model, generates difficult examples for the discriminative model in an adversarial way by minimising its discrimination objective.
-With the competition between these two models, we show that the unified framework takes advantage of both schools of thinking: (i) the generative model learns to fit the relevance distribution over documents via the signal from the discriminative model, and (ii) the discriminative model is able to exploit the unlabelled data selected by the generative model to achieve a better estimation for document ranking.
-Our experimental results have demonstrated significant performance gains as much as 23.96% on Precision@5 and 15.50% on MAP over strong baselines in a variety of applications including web search, item recommendation, and question answering.
-
-## Best Paper Award Honorable Mention
-<p align="center">
-  <img src="https://lantaoyu.github.io/files/sigir17-award.jpg?raw=true" alt="Photo" style="width: 850px;"/>
-</p>
+The present study is devoted to understanding whether the currently used
+methods in NIS PM Almaty are effective in teaching 11th grade students the
+concepts of limit, continuity and differentiability and analyzing the reasons for
+their effectiveness. Student survey is used to objectively measure the effectiveness
+of the teaching methods; teacher interviewing is employed to identify the problems underlying students' incorrect understanding of certain topics. 
+Note: The results of this study were used to optimize the teaching methods used in the calculus course in NIS PM Almaty. 
