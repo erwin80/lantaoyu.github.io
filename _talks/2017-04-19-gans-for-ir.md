@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2017-04-19-gans-for-ir
 venue: "RSI Symposium, MIT"
-date: 2018-08
+date: 2018-08-03
 location: "Cambridge, MA"
 ---
 
