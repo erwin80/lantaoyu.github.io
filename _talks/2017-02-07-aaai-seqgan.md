@@ -1,5 +1,5 @@
 ---
-title: "Sequence Generative Adversarial Nets with Policy Gradient"
+title: "Lower energy estimates for Hamiltonian stationary Lagrangian tori in CP^2"
 collection: talks
 type: "Talk"
 permalink: /talks/2017-02-07-aaai-seqgan
