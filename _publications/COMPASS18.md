@@ -9,4 +9,4 @@ citation: 'Kazhymurat, A.A. Sib Math J (2018) 59: 641. https://doi.org/10.1134/S
 
 
 ## Abstract
-We study the energy functional on the set of Lagrangian tori in CP2 . We prove that the value of the energy functional on a certain family of Hamiltonian minimal Lagrangian tori in CP2 is strictly larger than energy of the Clifford torus.
+We study the energy functional on the set of Lagrangian tori in CP^2 . We prove that the value of the energy functional on a certain family of Hamiltonian minimal Lagrangian tori in CP^2 is strictly larger than energy of the Clifford torus.
