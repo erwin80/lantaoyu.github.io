@@ -1,12 +1,12 @@
 ---
-title: "Generative Adversarial Networks for Information Retrieval"
+title: "Topological uniqueness results for Lefshetz fibrations over the disc"
 collection: talks
 type: "Talk"
 permalink: /talks/2017-04-19-gans-for-ir
-venue: "Apex Lab, Shanghai Jiao Tong University"
-date: 2017-04-19
-location: "Shanghai, China"
+venue: "RSI Symposium, MIT"
+date: 2018-08
+location: "Cambridge, MA"
 ---
 
-Introduction of two research papers on applying adversarial training for information retrieval.<br>
+A general audience talk about my RSI research.<br>
 [[Slide]](http://lantaoyu.github.io/files/2017-04-19-gans-for-ir.pdf)
