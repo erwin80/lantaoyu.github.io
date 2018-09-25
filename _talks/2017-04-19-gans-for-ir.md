@@ -9,4 +9,4 @@ location: "Cambridge, MA"
 ---
 
 A general audience talk about my RSI research.<br>
-[[Slide]](http://polishman.github.io/files/2017_04_19_gans_for_ir.pdf)
+[Slides](http://polishman.github.io/files/2017_04_19_gans_for_ir.pdf)
