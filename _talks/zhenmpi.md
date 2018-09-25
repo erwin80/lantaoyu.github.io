@@ -9,4 +9,4 @@ location: "Almaty, Kazakhstan"
 ---
 
 A contributed talk delivered at a students conference.<br>
-[[Slide]](http://polishman.github.io/files/Motifs%20in%20algebraic%20geometry.pptx)
+[Slides](http://polishman.github.io/files/Motifs%20in%20algebraic%20geometry.pptx)
