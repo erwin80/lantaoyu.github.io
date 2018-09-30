@@ -3,17 +3,15 @@ layout: archive
 permalink: /year-archive/
 title: "Other activites"
 author_profile: true
-redirect_from:
-  - /wordpress/blog-posts/
 ---
 
-{% include base_path %}
-{% capture written_year %}'None'{% endcapture %}
-{% for post in site.posts %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% if year != written_year %}
-    <h2 id="{{ year | slugify }}" class="archive__subtitle">{{ year }}</h2>
-    {% capture written_year %}{{ year }}{% endcapture %}
-  {% endif %}
-  {% include archive-single.html %}
-{% endfor %}
+<b>[In Riemann's footsteps']
+I keep an expository [blog](riemannfootsteps.blogspot.com) about mathematics. 
+
+<b>[An online Kazakh grammar learning tool]
+I have developed an online Kazakh grammar learning tool using context-free grammar techniques (available [here](kazhymurat.ml/kazakh)). 
+It is actively used by NIS PM Almaty students.
+  
+<b>[Teaching calculus: a case study of NIS PM Almaty]  
+When I was a junior, I analyzed the methods for teaching calculus at NIS PM Almaty. [Here](kazhymurat.ml/files/Math_teaching.pdf) is a report on my findings. 
+Some of my suggestions (e.g. including more examples illustrating the difference between continuous and smooth functions) are now used in the calculus teaching process at NIS PM Almaty.    
