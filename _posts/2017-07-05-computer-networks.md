@@ -8,4 +8,4 @@ permalink: /posts/2017/07/computer-networks/
   - category2 -->
 ---
 
-[Here][kazhymurat.ml/kazakh] is an online Kazakh grammar learning tool using context-free grammar techniques. It is used actively by NIS PM Almaty students.
+I developed an online Kazakh grammar learning tool using context-free grammar techniques (available [here](kazhymurat.ml/kazakh)) is a. It is used actively by NIS PM Almaty students.
