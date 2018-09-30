@@ -4,7 +4,6 @@ permalink: /year-archive/
 title: "Other activites"
 author_profile: true
 ---
-archive
 <b>In Riemann's footsteps'</b><br>
 I keep an expository [blog](riemannfootsteps.blogspot.com) about mathematics. 
 <br><br>
