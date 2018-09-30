@@ -8,4 +8,4 @@ permalink: /posts/2017/06/marl-papers/
   - category2 -->
 ---
 
-An expository [blog](riemannfootsteps.blogspot.com) about mathematics. 
+I keep an expository [blog](riemannfootsteps.blogspot.com) about mathematics. 
