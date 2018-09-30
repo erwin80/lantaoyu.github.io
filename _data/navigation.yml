@@ -3,20 +3,21 @@ main:
   - title: "CV"
     url: /cv/
   
-  - title: "Publications" 
+  - title: "Research publications" 
     url: /publications
     
   - title: "Talks"
     url: /talks/    
-
+    
+  - title: "Other"
+    url: /other/
   # - title: "Teaching"
   #   url: /teaching/    
     
   # - title: "Portfolio"
   #   url: /portfolio/
         
-  - title: "Blog"
-    url: /year-archive/
+ 
     
   - title: "Contact"
     url: /contact/  
