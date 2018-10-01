@@ -17,7 +17,7 @@ I organized a physics olympiad for the students of NIS PM Almaty when I was a fr
  <br>
  <br>
 <b>An online Kazakh grammar learning tool</b><br>
-I have developed an online Kazakh grammar learning tool using context-free grammar techniques (available [here](htpps://kazhymurat.ml/kazakh)). 
+I have developed an online Kazakh grammar learning tool using context-free grammar techniques (available [here](https://kazhymurat.ml/kazakh)). 
 It is actively used by NIS PM Almaty students.
   <br>
   <br>
