@@ -1,13 +1,13 @@
 ---
 layout: archive
 permalink: /year-archive/
-title: "Other activites"приложит максимум интеллектуальных усилий, чтобы достичь значительных успехов в процессе обучения и сможет обогатить профессиональное сообщество мира своим интеллектуальным трудом и творческими разработками.  
-
+title: "Other activites"
 author_profile: true
 ---
 <b>In Riemann's footsteps'</b><br>
 I keep an expository [blog](riemannfootsteps.blogspot.com) about mathematics. 
-<br><br>
+<br>
+<br>
 <b>A learning seminar on college-level mathematics</b><br>
 I am the organizer of a seminar on advanced mathematics at NIS PM Almaty. The proceedings of the seminar corresponding to the academic year 2017-18 were published via [Gumroad](https://gum.co/fEKzA). 
 <br>
@@ -16,11 +16,11 @@ I am the organizer of a seminar on advanced mathematics at NIS PM Almaty. The pr
 I organized a physics olympiad for the students of NIS PM Almaty when I was a freshman and a sophomore. When I was a junior, I co-organized (with T. Ibraev and D. Tulenov) an olympiad for students from 3 cities of Kazakhstan (Almaty, Semey, Pavlodar). In total, there were about 70 participants. [Here](kazhymurat.ml/files/3_town.pdf) are the proceedings of the olympiad.   
  <br>
  <br>
-
 <b>An online Kazakh grammar learning tool</b><br>
 I have developed an online Kazakh grammar learning tool using context-free grammar techniques (available [here](kazhymurat.ml/kazakh)). 
 It is actively used by NIS PM Almaty students.
-  <br><br>
+  <br>
+  <br>
 <b>Teaching calculus: a case study of NIS PM Almaty</b>
 <br>
 When I was a junior, I analyzed the methods for teaching calculus at NIS PM Almaty. [Here](kazhymurat.ml/files/Math_teaching.pdf) is a report on my findings. 
