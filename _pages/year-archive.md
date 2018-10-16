@@ -5,11 +5,11 @@ title: "Other activites"
 author_profile: true
 ---
 <b>In Riemann's footsteps'</b><br>
-I keep an expository [blog](https://riemannfootsteps.blogspot.com) about mathematics. 
+I keep an expository [blog](https://erwin80.github.io) about mathematics. 
 <br>
 <br>
 <b>A learning seminar on college-level mathematics</b><br>
-I am the organizer of a seminar on advanced mathematics at NIS PM Almaty. The proceedings of the seminar corresponding to the academic year 2017-18 were published via [Gumroad](https://gum.co/fEKzA). 
+I am the organizer of a seminar on advanced mathematics at NIS PM Almaty. The proceedings of the seminar corresponding to the academic year 2017-18 can be found [here](https://kazhymurat.ml/files/seminar_proceedings.pdf). 
 <br>
 <br>
 <b>Physics olympiad for high school students </b><br>
