@@ -15,7 +15,6 @@ I am the organizer of a seminar on advanced mathematics at NIS PM Almaty. The pr
 <b>Physics olympiad for high school students </b><br>
 I organized a physics olympiad for the students of NIS PM Almaty when I was a freshman and a sophomore. When I was a junior, I co-organized (with T. Ibraev and D. Tulenov) an olympiad for students from 3 cities of Kazakhstan (Almaty, Semey, Pavlodar). In total, there were about 70 participants. [Here](https://kazhymurat.ml/files/3_town.pdf) are the proceedings of the olympiad.   
  <br>
- <br>
 <b>An online Kazakh grammar learning tool</b><br>
 I have developed an online Kazakh grammar learning tool using context-free grammar techniques (available [here](https://kazhymurat.ml/kazakh)). 
 It is actively used by NIS PM Almaty students.
